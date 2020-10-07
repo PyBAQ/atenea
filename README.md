@@ -1,3 +1,7 @@
+------------
+*Este proyecto ha sido archivado debido a que se abandonó el proyecto. Le daremos prioridad a los proyectos que tienen más movimiento y utilidad para la comunidad a corto y mediano plazo. Agradecemos mucho a las personas que mostraron interés.*
+
+
 # Atenea
 
 Proyecto en Django para ayudar con la organizacion del taller para mujeres Django Girls.
